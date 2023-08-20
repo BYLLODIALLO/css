@@ -1,0 +1,38 @@
+*{
+    background: transparent;
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+text-decoration: none;
+}
+/* style pour la navbar*/
+ .navbar{ 
+    background: #0082e6;
+    color: white;
+    height: 80px;
+    width: 100%;
+    margin: 0px; 
+}
+/*Contenu du navbar*/
+.navbar .Allright{
+  color: white;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 80px; ;
+    padding: 0 100;
+    font-weight: bold;
+    display:flex;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+/*Le contenu du pieds de page*/
+.footer{
+  background-color:#0082e6;
+text-align: center;
+font-size: medium;
+align-items: center;
+color:white;
+padding-bottom: 5%;
+margin: 10;
+}
